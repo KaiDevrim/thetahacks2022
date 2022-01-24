@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.471de107.css",
+    "main.js": "/react-gh-pages/static/js/main.e43224c4.js",
+    "static/media/DevrinCommCute.jpg": "/react-gh-pages/static/media/DevrinCommCute.1e1a86b810776e184f7e.jpg",
+    "static/media/stats.png": "/react-gh-pages/static/media/stats.8d0d68e9494168f9db9c.png",
+    "static/media/(NO BUFFER) theta.png": "/react-gh-pages/static/media/(NO BUFFER) theta.4c26f987ab1392b3d2a4.png",
+    "static/media/ThetaHacks.svg": "/react-gh-pages/static/media/ThetaHacks.e64646b0e9e2a0872a141727b455b2d8.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.471de107.css.map": "/react-gh-pages/static/css/main.471de107.css.map",
+    "main.e43224c4.js.map": "/react-gh-pages/static/js/main.e43224c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471de107.css",
+    "static/js/main.e43224c4.js"
+  ]
+}
