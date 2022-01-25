@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/thetahacks2022/static/css/main.471de107.css",
-    "main.js": "/thetahacks2022/static/js/main.36964bc5.js",
-    "static/media/DevrinCommCute.jpg": "/thetahacks2022/static/media/DevrinCommCute.1e1a86b810776e184f7e.jpg",
-    "static/media/stats.png": "/thetahacks2022/static/media/stats.8d0d68e9494168f9db9c.png",
-    "static/media/(NO BUFFER) theta.png": "/thetahacks2022/static/media/(NO BUFFER) theta.4c26f987ab1392b3d2a4.png",
-    "static/media/ThetaHacks.svg": "/thetahacks2022/static/media/ThetaHacks.e64646b0e9e2a0872a141727b455b2d8.svg",
-    "index.html": "/thetahacks2022/index.html",
-    "main.471de107.css.map": "/thetahacks2022/static/css/main.471de107.css.map",
-    "main.36964bc5.js.map": "/thetahacks2022/static/js/main.36964bc5.js.map"
+    "main.css": "/static/css/main.471de107.css",
+    "main.js": "/static/js/main.41ad8495.js",
+    "static/media/DevrinCommCute.jpg": "/static/media/DevrinCommCute.1e1a86b810776e184f7e.jpg",
+    "static/media/stats.png": "/static/media/stats.8d0d68e9494168f9db9c.png",
+    "static/media/(NO BUFFER) theta.png": "/static/media/(NO BUFFER) theta.4c26f987ab1392b3d2a4.png",
+    "static/media/ThetaHacks.svg": "/static/media/ThetaHacks.e64646b0e9e2a0872a141727b455b2d8.svg",
+    "index.html": "/index.html",
+    "main.471de107.css.map": "/static/css/main.471de107.css.map",
+    "main.41ad8495.js.map": "/static/js/main.41ad8495.js.map"
   },
   "entrypoints": [
     "static/css/main.471de107.css",
-    "static/js/main.36964bc5.js"
+    "static/js/main.41ad8495.js"
   ]
 }
